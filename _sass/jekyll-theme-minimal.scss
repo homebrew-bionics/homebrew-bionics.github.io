@@ -72,7 +72,7 @@ a {
   text-decoration: underline;
   text-decoration-color: #9e9e9e;
 	
- 	background: linear-gradient(180deg, #b4ffef, #b4ffef);
+ 	background: linear-gradient(180deg, #000000, #000000);
  	background-repeat: no-repeat;
 	background-position-y: center;
   background-size: 0 100%;
@@ -90,15 +90,16 @@ a {
 	color: black;
 	text-decoration: none;
 	
- 	background: linear-gradient(180deg, #b4ffef, #b4ffef);
+ 	background: linear-gradient(180deg, #000000, #000000);
  	background-repeat: no-repeat;
-	background-position-y: center;
-  background-size: 0 85%;
+  background-position-y: center;
+  padding-bottom: 18px;
+  background-size: 0 5%;
   
   transition: background-size .4s ease-out;
 	
 	&:hover {
-		background-size: 100% 85%;
+		background-size: 100% 5%;
   }
 }
 
@@ -228,7 +229,7 @@ hr {
 }
 
 .bt_wrap:hover{
-	background:#b4ffef;
+	background:#000000;
 }
 
 .bt_wrap:hover .icon{
@@ -236,7 +237,7 @@ hr {
 }
 
 .bt_wrap:hover .icon2{
-	background:#b4ffef;
+	background:#000000;
 }
 
 .bt_wrap:hover .box{
