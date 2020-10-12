@@ -2,14 +2,5 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
-.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/14/34648d3451e9eaf039bd81f0c9714a5a59f1f1d56058feaac8ef963693f7fc
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3b/015f50c9abb457343b73b21024b196afd25b0fc65eb8f1c64ef307dc799845
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/42/219a826109f5414e13172545c632e678e0cc91a2226646d6bf4bf06024bf73
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/47b37f14358dbdb4a54858eaeaaf70f3d140676431e93299ca8455057b061b
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/67/2c1f7fefbdec705ed5141873c1abc4ab73d9c6838f187b88b749a86e2b7dc6
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/70/ca1a0e6dd6523ef75215a5826e2108a260b14b6a91294b66b6438cc28a122d
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7b/a6a87a3786354065eb2e1de697a5bccad4d621e1201c38b8ae4fed6a8a9dd1
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7e/6876553481a344d0b1bd3a6cc7beeb96a4397b388a92b8da056ddfd8ce2a55
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/73/2d87b9ffad434a53d824af72c2fa8279ade5af127a00bca4d3e27fe5f82032
+.jekyll-cache
+.gitignore
