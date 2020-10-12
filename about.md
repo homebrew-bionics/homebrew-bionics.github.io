@@ -2,120 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Homebrew Bionics is an online community of Engineers and Makers working on open-source prosthetic devices that are affordable and accessible to all. If you are someone who would love to contribute, kindly read our community guidelines before becoming a part of us.
 
-[Link to another page](./another-page.html).
+# Community Guidelines 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+\\
+Members of the Homebrew Bionics community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
 
-# Header 1
+* Being open. Members of the community are open to collaboration.
+* Acknowledging time and effort. We're thoughtful when addressing the efforts of others, keeping in mind that oftentimes the labor was completed simply for the good of the community.
+* Being respectful of differing viewpoints and experiences. We're receptive to constructive comments and criticism, as the experiences and skill sets of other members contribute to the whole of our efforts.
+* Showing empathy towards other community members. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+* Being considerate. Members of the community are considerate of their peers
+* Being respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts.
+* Gracefully accepting constructive criticism. When we disagree, we are courteous in raising our issues.
+* Using welcoming and inclusive language. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
+* Every member of our community has the right to have their identity respected.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Code of Conduct derived from Python Community Code of Conduct. Read [more](https://www.python.org/psf/conduct/).\\
+Thank you for helping make this a welcoming, friendly community for everyone.
 
-## Header 2
+[![Join](https://img.shields.io/badge/-Join-black?style=for-the-badge)](https://www.python.org/psf/conduct/)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
