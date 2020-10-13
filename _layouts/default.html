@@ -18,26 +18,42 @@
         <div class="categories">
             <div class="about">
                 <a href="{{ site.baseurl }}{% link about.md %}">About</a>
-            </div>
+            </div>            
             <div class="make">
-                <a href="{{ site.baseurl }}{% link make.md %}">Make|Build</a>
-            </div>
-            <div class="projects">
-                <a href="https://github.com/homebrew-bionics" target="_blank" rel="noopener noreferrer">Projects</a>
-            </div>
+              <a href="{{ site.baseurl }}{% link make.md %}">Make</a>
+            </div>             
+            <div class="make">
+                <a href="{{ site.baseurl }}{% link socket.md %}">&#9900; Socket</a>
+            </div>       
+            <div class="make">
+              <a href="{{ site.baseurl }}{% link knee.md %}">&#9900; Knee</a>
+            </div>   
+            <div class="make">
+              <a href="{{ site.baseurl }}{% link ankle.md %}">&#9900; Ankle</a>
+            </div>   
+            <div class="make">
+              <a href="{{ site.baseurl }}{% link build.md %}">Build</a>
+            </div>                                 
+            __________
+
+            <div class="contact">
+              <a href="{{ site.baseurl }}{% link contact.md %}">Contact</a>
+            </div>            
             <div class="gallery">
               <a href="#">Gallery</a>
-            </div>            
+            </div>          
         </div>  
+
       </header>
 
       <section>
       {{ content }}
       </section>
 
-      <footer>
+      <footer>    
       </footer>
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

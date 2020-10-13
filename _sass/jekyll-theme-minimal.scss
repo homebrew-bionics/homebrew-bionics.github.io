@@ -69,19 +69,23 @@ h3, h4, h5, h6 {
 a {
   font-weight: bold;
 	color: black;
-  text-decoration: underline;
-  text-decoration-color: #9e9e9e;
 	
- 	background: linear-gradient(180deg, #000000, #000000);
+ 	background: linear-gradient(180deg, #c8ff00, #c8ff00);
  	background-repeat: no-repeat;
-	background-position-y: center;
-  background-size: 0 100%;
+  background-position-y: center;
+  padding-bottom: 18px;
+  background-size: 0 5%;
   
-  transition: background-size .7s ease-out;
+  transition: background-size .4s ease-out;
 	
 	&:hover {
-		background-size: 100% 100%;
+		background-size: 100% 5%;
   }
+}
+
+hr.solid {
+  padding-top: 10px;
+  border-top: 3px solid rgb(0, 0, 0);
 }
 
 .categories a {
@@ -183,6 +187,7 @@ hr {
 }
 
 #ctwrapper {
+  padding-left: 85px;
 	text-align:center;
 }
 
@@ -229,7 +234,7 @@ hr {
 }
 
 .bt_wrap:hover{
-	background:#000000;
+	background:#e4e4e4;
 }
 
 .bt_wrap:hover .icon{
@@ -237,7 +242,7 @@ hr {
 }
 
 .bt_wrap:hover .icon2{
-	background:#000000;
+	background:#e4e4e4;
 }
 
 .bt_wrap:hover .box{
@@ -248,7 +253,7 @@ footer {
   width:270px;
   float:left;
   position:fixed;
-  bottom:100px;
+  bottom:495px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 

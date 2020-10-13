@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-About 15% of the world’s population lives with some form of disability, of whom 5-7% are amputees who experience significant  difficulties in functioning. Developing countries like India report more than 29,000 amputees each year due to increased number of road accidents and increase in diabetic population. In developing countries, most amputees rely on physical labor and in few cases they become beggars on the streets in order to survive. Loss of a limb in such cases not only affects the person's physical ability, it causes profound psychological damage and degrades their social status. Availability of affordable prosthetic devices is vital for everyone who needs them.
+About 15% of the world’s population lives with some form of disability, of whom 5-7% are amputees who experience significant  difficulties in functioning. Developing countries like India report more than 29,000 amputees each year due to increased number of road accidents and increase in diabetic population. In developing countries, most amputees rely on physical labor and in few cases they become beggars on the streets in order to survive. Loss of a limb in those cases not only affects the person's physical ability, it causes profound psychological damage and degrades their social status. Availability of affordable prosthetic devices is vital for everyone who needs them.
 
 The Homebrew Bionics community explores the possibilities of developing such open-source, affordable prosthetic devices that are rapidly fabricable to serve the people in need. If you are someone who would love to contribute, kindly read our community guidelines before becoming a part of us.
 
@@ -23,5 +23,5 @@ Members of the Homebrew Bionics community are open, considerate, and respectful.
 Code of Conduct derived from Python Community Code of Conduct. Read [more](https://www.python.org/psf/conduct/).\\
 Thank you for helping make this a welcoming, friendly community for everyone.
 
-[![Join](https://img.shields.io/badge/-Join-black?style=for-the-badge)](https://www.python.org/psf/conduct/)
+[![Join](https://img.shields.io/badge/-Join-black?style=for-the-badge)](#)
 
