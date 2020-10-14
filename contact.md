@@ -8,5 +8,5 @@ For device specific enquiries, contact the concerned author/developer. \\
 To report a problem on device, create an issue on the repository of the respective device.
 
 For general enquiries, please contact:\\
-**Senthur Raj**\\
+Senthur Raj\\
 imsenthur@gmail.com
