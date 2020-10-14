@@ -19,7 +19,7 @@ Prosthetic knees range from simple, purely mechanical devices to sophisticated m
 # 3D Printing
 
 \\
-The settings used for each of the three components are listed below,
+The settings used for each of the three 3D printed components are listed below,
 
 | *Parameter* | Component 1 | Component 2 | Component 3 |
 | Nozzle diameter | 0.4mm | 0.4mm | 0.4mm |
