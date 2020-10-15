@@ -34,9 +34,9 @@ STL files can be downloaded from the [repository](https://github.com/homebrew-bi
 
 \\
 The entire assembly process can be broken down into three steps,
-* Assemble components one and two concentrically, ensure that there is no friction between the 3D printed components.
+* Assemble components ``1`` and ``2`` concentrically, ensure that there is no friction between the 3D printed components.
 * Lock these two components in-place with the quick-release clamp to make a sub-assembly.
-* Use two M8 bolts or 8mm SS shafts to mount the hydraulic gas spring such that it connects the sub-assembly to component three.
+* Use two ``M8`` bolts or ``8mm`` SS shafts to mount the hydraulic gas spring such that it connects the sub-assembly to component three.
 
 \\
 ![knee](assets/img/knee.jpg)
