@@ -9,8 +9,8 @@ A prosthetic ankle can either be a passive SACH *(Solid Ankle Cushioned Heel)* f
 
 | 3D printed components | 2 | 376g PLA/ABS |
 | 300mm PVC pipe (Diameter: 1in) | 1 | $3 |
-| [50mm M5 SS Nuts & Bolts](https://www.amazon.com/s?k=m5+50mm+bolt&ref=nb_sb_noss_2) | 1 | $1 |
-| [25mm M5 SS Nuts & Bolts](https://www.amazon.com/s?k=m5+50mm+bolt&ref=nb_sb_noss_2) | 4 | $2 |
+| [50mm M5 SS Nuts & Bolts](https://www.amazon.com/s?k=m5+50mm+bolt&ref=nb_sb_noss_2){:target="_blank"} | 1 | $1 |
+| [25mm M5 SS Nuts & Bolts](https://www.amazon.com/s?k=m5+50mm+bolt&ref=nb_sb_noss_2){:target="_blank"} | 4 | $2 |
 | | **Total** | $6 |
 
 *The links provided are for reference purposes only.
@@ -20,14 +20,14 @@ A prosthetic ankle can either be a passive SACH *(Solid Ankle Cushioned Heel)* f
 \\
 The settings used for each of the two 3D printed components are listed below,
 
-| *Parameter* | Component 4 | Component 5 |
+| *Parameter* | [Comp 4](https://github.com/homebrew-bionics/Mark-I/blob/master/stl/optimized/component-4.stl){:target="_blank"}| [Comp 5](https://github.com/homebrew-bionics/Mark-I/blob/master/stl/component-5.STL){:target="_blank"} |
 | Nozzle diameter | 0.4mm | 0.4mm |
 | Layer height | 0.2mm | 0.2mm |
 | Infill | 60% | 50% |
 | Mass | 109g| 267g |
 | Duration | 14hrs 0mins | 20hrs 36mins |
 
-STL files can be found under the [repository](https://github.com/homebrew-bionics/Mark-I).
+STL files can be downloaded from the [repository](https://github.com/homebrew-bionics/Mark-I){:target="_blank"}.
 # Assembly
 
 \\

@@ -5,6 +5,8 @@ About 15% of the world’s population lives with some form of disability, of who
 
 The Homebrew Bionics community explores the possibilities of developing such open-source, affordable prosthetic devices that are rapidly fabricable to serve the people in need. If you are someone who would love to contribute, kindly read our community guidelines before becoming a part of us.
 
+[![Join](https://img.shields.io/badge/-Join-black?style=for-the-badge)](https://forms.gle/3Av5kUAZbZLp5pfM8){:target="_blank"}
+
 # Community Guidelines 
 
 \\
@@ -20,8 +22,6 @@ Members of the Homebrew Bionics community are open, considerate, and respectful.
 * Using welcoming and inclusive language. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 * Every member of our community has the right to have their identity respected.
 
-Code of Conduct derived from Python Community Code of Conduct. Read [more](https://www.python.org/psf/conduct/).\\
+Code of Conduct derived from Python Community Code of Conduct. Read [more](https://www.python.org/psf/conduct/){:target="_blank"}.\\
 Thank you for helping make this a welcoming, friendly community for everyone.
-
-[![Join](https://img.shields.io/badge/-Join-black?style=for-the-badge)](#)
 

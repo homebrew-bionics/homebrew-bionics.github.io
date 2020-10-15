@@ -21,14 +21,14 @@ Prosthetic knees range from simple, purely mechanical devices to sophisticated m
 \\
 The settings used for each of the three 3D printed components are listed below,
 
-| *Parameter* | Component 1 | Component 2 | Component 3 |
+| *Parameter* | [Comp 1](https://github.com/homebrew-bionics/Mark-I/blob/master/stl/optimized/component-1.stl){:target="_blank"} | [Comp 2](https://github.com/homebrew-bionics/Mark-I/blob/master/stl/optimized/component-2.stl){:target="_blank"} | [Comp 3](https://github.com/homebrew-bionics/Mark-I/blob/master/stl/optimized/component-3.stl){:target="_blank"} |
 | Nozzle diameter | 0.4mm | 0.4mm | 0.4mm |
 | Layer height | 0.2mm | 0.2mm | 0.2mm |
 | Infill | 80% | 80% | 80% |
 | Mass | 94g| 109g | 32g |
 | Duration | 11hrs 18mins | 13hrs 7mins | 4hrs 57mins  |
 
-STL files can be found under the [repository](https://github.com/homebrew-bionics/Mark-I){:target="_blank"}. Each 3D printed component has been optimized for minimal compliance under a specified volume fraction.
+STL files can be downloaded from the [repository](https://github.com/homebrew-bionics/Mark-I){:target="_blank"}. Each 3D printed component has been optimized for minimal compliance under a specified volume fraction.
 
 # Assembly
 

@@ -12,6 +12,8 @@ The developed lower-limb prosthetic leg comprises a socket, a knee assembly, and
 
 were also a concern. [Anton](https://anton.readthedocs.io/en/latest/){:target="_blank"}: an open-source generative design framework was used to minimize the compliance of each component under a specified volume fraction thereby minimizing the amount of material (filament) used.
 
+![make](assets/img/make.jpg)
+
 All the required components can be rapidly manufactured with a FDM 3D printer that has the following specifications,
 
 * Filament: ``ABS`` *(``PLA`` for Testing)*

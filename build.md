@@ -17,13 +17,15 @@ The developed lower-limb prosthetic leg costs **$34** and **611g of PLA/ABS** fi
 | | | **Total** | $34 |
 
 
-Hydraulic gas springs are available at a range of pressure values. Inexpensive hydraulic gas springs lack the functionality to be able to adjust the valves to tune the swing flexion and extension. If this functionality is much desired, [Rear shocks](https://www.amazon.com/s?k=mountain+bike+rear+shock&ref=nb_sb_noss_2) found on mountain bikes can be used instead of inexpensive hydraulic gas springs. Both rebound and compression can be adjusted. Tuning the pressure difference between main air chamber and negative air chamber requires precision.
+Hydraulic gas springs are available at a range of pressure values. Inexpensive hydraulic gas springs lack the functionality to be able to adjust the valves to tune the swing flexion and extension. If this functionality is much desired, [Rear shocks](https://www.amazon.com/s?k=mountain+bike+rear+shock&ref=nb_sb_noss_2){:target="_blank"} found on mountain bikes can be used instead of inexpensive hydraulic gas springs. Both rebound and compression can be adjusted. Tuning the pressure difference between main air chamber and negative air chamber requires precision.
 
 ![knee-rs](assets/img/knee-rs.jpg)
 
-*The showcased design is not meant to be used with a [rear shock](https://www.amazon.com/s?k=mountain+bike+rear+shock&ref=nb_sb_noss_2).
+*The showcased design is not meant to be used with a [rear shock](https://www.amazon.com/s?k=mountain+bike+rear+shock&ref=nb_sb_noss_2){:target="_blank"}.
 # Friction control
 \\
+![friction](assets/img/friction.gif){:width="900px"}
+
 In addition to tuning the hydraulic cylinder as per the amputee's weight and walking speed, the quick-release clamp can be adjusted to increase or decrease the friction between components one and two, this significantly modifies the knee joint's dynamic behaviour.
 
 ![knee-friction](assets/img/knee-friction.jpg)
