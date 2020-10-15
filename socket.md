@@ -19,9 +19,7 @@ The application exports the reconstructed model as a point-cloud file, euclidean
 
 ![matlab](assets/img/res_matlab.jpg)
 
-The exported results can then be cleaned and converted to a 3D printable STL file with [Blender](https://www.blender.org/) or any preferred application. A test print of ``0.25-0.4`` scale can be attempted to check for defects.
-
-![testprint](assets/img/test_print.jpg)
+The exported results can then be cleaned and converted to a 3D printable STL file with [Blender](https://www.blender.org/) or any preferred application.
 
 # Settings
 

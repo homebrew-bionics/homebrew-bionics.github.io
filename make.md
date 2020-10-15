@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The developed lower-limb prosthetic leg comprises a socket, a knee assembly, and an ankle assembly. The prosthetic leg is made mostly from 3D printed parts that are optimized to withstand the specified load. The design criteria were to minimize printing time and cost of filament and to maximize each component's stiffness. In addition,
+The developed lower-limb prosthesis comprises a socket, a knee assembly, and an ankle assembly. The prosthetic leg is made mostly from 3D printed parts that are optimized to withstand the specified load. The design criteria were to minimize printing time and cost of filament and to maximize each component's stiffness. In addition,
 
 * Ease of repair
 * Ease of assembly
